@@ -1,3 +1,5 @@
 ### Hi there 👋
 
 ### I'm a computer science Graduate student with an emphasis in software development.
+
+### I like to development for the web with MongoDB, Express, React, and Node sometimes with Typescript and Graphql.
